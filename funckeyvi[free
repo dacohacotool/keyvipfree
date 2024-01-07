@@ -1,6 +1,8 @@
+if (!function_exists('kdsadhewuhbcbdsdshyadujehbcdscsd')) {
 function kdsadhewuhbcbdsdshyadujehbcdscsd() {
     date_default_timezone_set('Asia/Ho_Chi_Minh');
     $ngay= date("d");
     $gio = date("h");
     return $ngay.'|'.$gio ;
+}
 }
