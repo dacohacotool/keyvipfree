@@ -3,9 +3,6 @@ function kdsadhewuhbcbdsdshyadujehbcdscsd() {
     date_default_timezone_set('Asia/Ho_Chi_Minh');
     $ngay= date("d");
     $gio = date("h");
-    $ngay = '14';
-    $gio = '12';
-
     return $ngay.'|'.$gio ;
 }
 }
